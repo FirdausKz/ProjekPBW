@@ -5,7 +5,7 @@
      
         if($_SESSION['isLoggedIn'])
         {
-            header("Location:tabel.php");
+            header("Location:main.php");
         }  
 
 
